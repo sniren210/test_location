@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1016594333687",
+    "project_id": "push-notification-flutte-bbc2d",
+    "storage_bucket": "push-notification-flutte-bbc2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016594333687:android:fd981fb902bce29d78f8f2",
+        "android_client_info": {
+          "package_name": "com.example.test_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016594333687-7jp89kj3sr66epi88b79q6c0tfk3qpdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_push_notification",
+            "certificate_hash": "def48346386171e532f6a4f375beb75a7967490d"
+          }
+        },
+        {
+          "client_id": "1016594333687-30pqeham9r0ntou9bchktd7qesn2m650.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYkCiMmIr6nu443TMjN99ckTmVnGnJ2BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016594333687-30pqeham9r0ntou9bchktd7qesn2m650.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
